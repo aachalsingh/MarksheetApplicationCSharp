@@ -1,0 +1,15 @@
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\bin\Debug\net6.0\MarksheetApplicationCSharp.exe
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\bin\Debug\net6.0\MarksheetApplicationCSharp.deps.json
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\bin\Debug\net6.0\MarksheetApplicationCSharp.runtimeconfig.json
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\bin\Debug\net6.0\MarksheetApplicationCSharp.dll
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\bin\Debug\net6.0\MarksheetApplicationCSharp.pdb
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\MarksheetApplicationCSharp.csproj.AssemblyReference.cache
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\MarksheetApplicationCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\MarksheetApplicationCSharp.AssemblyInfoInputs.cache
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\MarksheetApplicationCSharp.AssemblyInfo.cs
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\MarksheetApplicationCSharp.csproj.CoreCompileInputs.cache
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\MarksheetApplicationCSharp.dll
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\refint\MarksheetApplicationCSharp.dll
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\MarksheetApplicationCSharp.pdb
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\MarksheetApplicationCSharp.genruntimeconfig.cache
+D:\CSharp\MarksheetApplicationCSharp\MarksheetApplicationCSharp\obj\Debug\net6.0\ref\MarksheetApplicationCSharp.dll
